@@ -1,3 +1,7 @@
-Computer Vision
+¬¬Computer Vision
 
-Object Detection and Segmentation
+Object Detection 
+
+Segmentation
+
+Classification
